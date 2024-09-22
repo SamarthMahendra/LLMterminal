@@ -1,4 +1,4 @@
 from transform_command import transform_command
-api_key = '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'
+api_key = None
 
 print(transform_command("install sklearn", api_key)) # ls
