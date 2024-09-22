@@ -1,0 +1,3 @@
+([('terminal',
+   '/Users/samarthmahendra/customterminal/customterminal/dist/terminal',
+   'EXECUTABLE')],)
